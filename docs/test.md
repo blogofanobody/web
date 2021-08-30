@@ -1,7 +1,7 @@
 ---
 title: Adding up
-synopsis: What is 4 plus 2
+synopsis: What is 14 plus 2
 ---
 
 
-Here it is {{ 12 | plus: 2 }}
+Here it is {{ 14 | plus: 2 }}
