@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blog of a nobody</title>
+        <description>Why should I not have a blog?</description>
+        <link>http://blogofanobody.com</link>
+
+        <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+
+            <item>
+                <title>Why should I not have a blog?</title>
+                <description>Why should I not have a blog? I have often seen blogs of people I have never even heard of and I fail to see - because I do not happen to be &amp;quot;somebody&amp;quot; - why my blog should not be interesting. My only regret is that I did not commence it when I was a youth. [Edit - The paragraph above is coined ...</description>
+                <pubDate>2018-04-01</pubDate>
+                <link>http://blogofanobody.com/2018/04-Apr/01-why-should-i-not-have-a-blog</link>
+                <guid isPermaLink="true">http://blogofanobody.com/2018/04-Apr/01-why-should-i-not-have-a-blog</guid>
+                <media:thumbnail url="http://blogofanobody.com/images/blogofanobody.jpg" />
+                <media:content url="http://blogofanobody.com/images/blogofanobody.jpg" medium="image">
+                    <media:title type="html">Why should I not have a blog?</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>New beginnings</title>
+                <description>My partner Carr13 and I have just moved into our new home in Surbiton. I have also started working at my new job at the Generous and Advantageous Insurance (which I will henceforth call G&amp;amp;A) in London - all in the space of a week. Phew! The people at Gen&amp;amp;Ad seem nice enough if a little quiet. I wore ...</description>
+                <pubDate>2018-04-02</pubDate>
+                <link>http://blogofanobody.com/2018/04-Apr/02-new-beginnings</link>
+                <guid isPermaLink="true">http://blogofanobody.com/2018/04-Apr/02-new-beginnings</guid>
+                <media:thumbnail url="http://blogofanobody.com/images/blogofanobody.jpg" />
+                <media:content url="http://blogofanobody.com/images/blogofanobody.jpg" medium="image">
+                    <media:title type="html">New beginnings</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>Gathering the news</title>
+                <description>I have been a bit rushed today and am suffering from a lack of newspapers. I tried to watch the news on television last night but found that our aerial is quite inadequate, and whilst I could see what was happening, we had no sound. In the case of political debate that is a severe limitation. So I ...</description>
+                <pubDate>2018-04-04</pubDate>
+                <link>http://blogofanobody.com/2018/04-Apr/04-gathering-the-news</link>
+                <guid isPermaLink="true">http://blogofanobody.com/2018/04-Apr/04-gathering-the-news</guid>
+                <media:thumbnail url="http://blogofanobody.com/images/blogofanobody.jpg" />
+                <media:content url="http://blogofanobody.com/images/blogofanobody.jpg" medium="image">
+                    <media:title type="html">Gathering the news</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>Read all about it!</title>
+                <description>Since I intend to be first to comment on breaking news, I visited our local corner shop to buy the Saturday papers. I plan to buy at least 3 papers a day to get a good balanced coverage of the news. I introduced myself to the lady behind the counter but I couldn&amp;#39;t understand her name. I will refer ...</description>
+                <pubDate>2018-04-06</pubDate>
+                <link>http://blogofanobody.com/2018/04-Apr/06-read-all-about-it!</link>
+                <guid isPermaLink="true">http://blogofanobody.com/2018/04-Apr/06-read-all-about-it!</guid>
+                <media:thumbnail url="http://blogofanobody.com/images/blogofanobody.jpg" />
+                <media:content url="http://blogofanobody.com/images/blogofanobody.jpg" medium="image">
+                    <media:title type="html">Read all about it!</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>Sunday morning</title>
+                <description>Carr13 and I attended the Church of Jesus Christ of Surbiton this morning. We intend to attend regularly so as to become part of the community and perhaps gain some points with the big man upstairs. The vicar is a nice enough man though a little quietly spoken and a bit of a stutter. His curate is a ...</description>
+                <pubDate>2018-04-08</pubDate>
+                <link>http://blogofanobody.com/2018/04-Apr/08-sunday-morning</link>
+                <guid isPermaLink="true">http://blogofanobody.com/2018/04-Apr/08-sunday-morning</guid>
+                <media:thumbnail url="http://blogofanobody.com/images/blogofanobody.jpg" />
+                <media:content url="http://blogofanobody.com/images/blogofanobody.jpg" medium="image">
+                    <media:title type="html">Sunday morning</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>A new start at work</title>
+                <description>Today was to have been a good day. Having spent last week getting settled in at work. I was to be assigned my new role today by HR and actually start to make-things-happen. My job title is &amp;quot;Middle Manager&amp;quot; - which I like. My first disappointment was that the papers were not delivered even when I ...</description>
+                <pubDate>2018-04-09</pubDate>
+                <link>http://blogofanobody.com/2018/04-Apr/09-a-new-start-at-work</link>
+                <guid isPermaLink="true">http://blogofanobody.com/2018/04-Apr/09-a-new-start-at-work</guid>
+                <media:thumbnail url="http://blogofanobody.com/images/blogofanobody.jpg" />
+                <media:content url="http://blogofanobody.com/images/blogofanobody.jpg" medium="image">
+                    <media:title type="html">A new start at work</media:title>
+                </media:content>
+            </item>
+    </channel>
+</rss>

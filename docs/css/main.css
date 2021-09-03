@@ -1,0 +1,47 @@
+body { font-family: Georgia, serif;
+  font-size: 14pt;     color: #505050;}
+li { }
+
+h1 { text-align: center; }
+
+blockquote {background-color: #fee; padding: 0.5em 1em; border-radius: 0.5em; margin: 5%;}
+
+a:visited {color: inherit; }
+
+div>p:first-child:first-letter { float: left; color: #903; font-size: 60pt; line-height: 0.8em; padding-right: 0.1em; padding-left: 0.1em;}
+
+.wrapper {margin-left: 18%; margin-right: 18%; background-color: #FEFFEC; }
+.contents {padding: 0 2em 0 2em;}
+
+.rightlink {float: right; display: inline-block; width: 50%; text-align: right; }
+.leftlink {float: left; display: inline-block; width: 50%; text-align: left;}
+.centerlink {display: inline-block;}
+.linkbox { padding: 0.2em; font-size: 12pt;}
+.boximageright {float: right; height: 1.2em; }
+.boximageleft {float: left; height: 1.2em; }
+
+.links {  text-align: center; background-color: #7D6867;  }
+.links a { color: #B8A4A3; text-decoration: none;}
+.links a:hover { color: #E0D0C7; }
+.linksbody a { color: #a68e8c; }
+.linksbody a:hover { color: #483837; }
+
+.synopsis { text-align: center; width: 100%; font-style: italic; font-size: 12pt; }
+.archiveyear {padding-top: 0.8em; font-weight: bold;}
+.archivemonth {padding-top: 0.5em; padding-bottom: 0.3em; font-weight: bold; font-size: 12pt;}
+.archive {white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: #903; }
+.archive a {text-decoration: none;}
+.archivedate {padding-left: 1em; display: inline-block; width: 5em; }
+.archivename {display: inline-block; text-indent: -1em; padding-left: 1em;}
+.header {text-align: center; background-color: #7D6867; color: #B8A4A3; font-size: 14pt; border-top-left-radius: 0.5em; border-top-right-radius: 0.5em; }
+.footer {border-bottom-right-radius: 0.5em; border-bottom-left-radius: 0.5em;}
+
+@media screen and (max-width: 800px) {
+    .wrapper { margin-left: 0; margin-right: 0; }
+    h1 {font-size: 18pt;}
+    .contents {padding: 0 0.5em 0 0.5em;}
+    .archive {font-size: 12pt;}
+    }
+@media screen and (min-width: 1500px) {
+    .wrapper {  margin-left: auto; margin-right: auto; width: 50em;  }
+}
