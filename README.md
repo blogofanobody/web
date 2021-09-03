@@ -1,1 +1,0 @@
-Blog of a nobody
